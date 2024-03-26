@@ -10,7 +10,8 @@ module.exports = {
     extend: {
       fontFamily: {
         Dm : ['DM Sans'],
-        Rob: ['Roboto']
+        Rob: ['Roboto'],
+        Int: ['Inter']
       },
       colors: {
         Black:'#141414',
@@ -27,7 +28,8 @@ module.exports = {
         bbygray: '#A3A3A3',
         chartgreen: '#25D366',
         secorange: '#F79009',
-        firstorange: '#EF6820'
+        firstorange: '#EF6820',
+        gray500: '#737373',
 
       }
     },
