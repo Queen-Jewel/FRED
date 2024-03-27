@@ -692,6 +692,10 @@ video {
   margin-top: 0.25rem;
 }
 
+.mt-16{
+  margin-top: 4rem;
+}
+
 .flex{
   display: flex;
 }
@@ -850,6 +854,14 @@ video {
 
 .h-\[12\.5px\]{
   height: 12.5px;
+}
+
+.h-\[760px\]{
+  height: 760px;
+}
+
+.h-\[628px\]{
+  height: 628px;
 }
 
 .max-h-\[100\%\]{
